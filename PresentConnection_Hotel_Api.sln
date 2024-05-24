@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PresentConnection_Hotel_Api", "PresentConnection_Hotel_Api\PresentConnection_Hotel_Api.csproj", "{391527DB-558E-43FC-9386-FDA0459F722F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresentConnection_Hotel_ApiTests", "PresentConnection_Hotel_ApiTests\PresentConnection_Hotel_ApiTests.csproj", "{08663094-EE3F-4415-9384-6794B2A86C71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{391527DB-558E-43FC-9386-FDA0459F722F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{391527DB-558E-43FC-9386-FDA0459F722F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{391527DB-558E-43FC-9386-FDA0459F722F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{391527DB-558E-43FC-9386-FDA0459F722F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08663094-EE3F-4415-9384-6794B2A86C71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08663094-EE3F-4415-9384-6794B2A86C71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08663094-EE3F-4415-9384-6794B2A86C71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08663094-EE3F-4415-9384-6794B2A86C71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {617C2C28-5A08-43E1-A4BC-A94467F587A2}
+	EndGlobalSection
+EndGlobal

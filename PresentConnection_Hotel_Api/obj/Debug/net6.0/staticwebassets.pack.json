@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\justi\\Desktop\\Present_Connection\\PresentConnection_Hotel_Api\\PresentConnection_Hotel_Api\\wwwroot\\asset-manifest.json",
+      "PackagePath": "staticwebassets\\asset-manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\justi\\Desktop\\Present_Connection\\PresentConnection_Hotel_Api\\PresentConnection_Hotel_Api\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\justi\\Desktop\\Present_Connection\\PresentConnection_Hotel_Api\\PresentConnection_Hotel_Api\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\justi\\Desktop\\Present_Connection\\PresentConnection_Hotel_Api\\PresentConnection_Hotel_Api\\wwwroot\\logo192.png",
+      "PackagePath": "staticwebassets\\logo192.png"
+    },
+    {
+      "Id": "C:\\Users\\justi\\Desktop\\Present_Connection\\PresentConnection_Hotel_Api\\PresentConnection_Hotel_Api\\wwwroot\\logo512.png",
+      "PackagePath": "staticwebassets\\logo512.png"
+    },
+    {
+      "Id": "C:\\Users\\justi\\Desktop\\Present_Connection\\PresentConnection_Hotel_Api\\PresentConnection_Hotel_Api\\wwwroot\\manifest.json",
+      "PackagePath": "staticwebassets\\manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\justi\\Desktop\\Present_Connection\\PresentConnection_Hotel_Api\\PresentConnection_Hotel_Api\\wwwroot\\robots.txt",
+      "PackagePath": "staticwebassets\\robots.txt"
+    },
+    {
+      "Id": "C:\\Users\\justi\\Desktop\\Present_Connection\\PresentConnection_Hotel_Api\\PresentConnection_Hotel_Api\\wwwroot\\static\\css\\main.8a685450.css",
+      "PackagePath": "staticwebassets\\static\\css\\main.8a685450.css"
+    },
+    {
+      "Id": "C:\\Users\\justi\\Desktop\\Present_Connection\\PresentConnection_Hotel_Api\\PresentConnection_Hotel_Api\\wwwroot\\static\\css\\main.8a685450.css.map",
+      "PackagePath": "staticwebassets\\static\\css\\main.8a685450.css.map"
+    },
+    {
+      "Id": "C:\\Users\\justi\\Desktop\\Present_Connection\\PresentConnection_Hotel_Api\\PresentConnection_Hotel_Api\\wwwroot\\static\\js\\main.709839f5.js",
+      "PackagePath": "staticwebassets\\static\\js\\main.709839f5.js"
+    },
+    {
+      "Id": "C:\\Users\\justi\\Desktop\\Present_Connection\\PresentConnection_Hotel_Api\\PresentConnection_Hotel_Api\\wwwroot\\static\\js\\main.709839f5.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\static\\js\\main.709839f5.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\justi\\Desktop\\Present_Connection\\PresentConnection_Hotel_Api\\PresentConnection_Hotel_Api\\wwwroot\\static\\js\\main.709839f5.js.map",
+      "PackagePath": "staticwebassets\\static\\js\\main.709839f5.js.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.PresentConnection_Hotel_Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.PresentConnection_Hotel_Api.props",
+      "PackagePath": "build\\PresentConnection_Hotel_Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.PresentConnection_Hotel_Api.props",
+      "PackagePath": "buildMultiTargeting\\PresentConnection_Hotel_Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.PresentConnection_Hotel_Api.props",
+      "PackagePath": "buildTransitive\\PresentConnection_Hotel_Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
